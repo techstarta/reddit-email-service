@@ -1,5 +1,7 @@
 # reddit-email-service
 
+Hi, welcome to Techstart Challenge
+
 ## Brief
 
 In a world with unlimited content and choice, it becomes difficult to focus on the topics that really matter to us as an individual.
