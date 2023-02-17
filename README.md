@@ -1,6 +1,6 @@
 # reddit-email-service
 
-Hi, welcome to Techstart Challenge
+Hi, welcome to Techstarta Challenge
 
 ## Brief
 
